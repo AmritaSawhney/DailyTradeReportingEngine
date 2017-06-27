@@ -1,6 +1,6 @@
 Daily Trade Reporting Engine
 
-The daily trade reporting engine to process instructions related to various customers. The input instructions are read from the sample txt file, with the
+The daily trade reporting engine is intended to process instructions related to various customers. The input instructions are read from the sample txt file, with the
 default format and output is the report for :
 a. Amount in USD settled incoming everyday
 b. Amount in USD settled outgoing everyday
