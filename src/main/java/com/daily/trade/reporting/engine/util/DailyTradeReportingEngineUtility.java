@@ -69,7 +69,7 @@ public class DailyTradeReportingEngineUtility {
 				} else {
 					BigDecimal x1 = ((Instruction) o1).getTotalEntityPrice();
 					BigDecimal x2 = ((Instruction) o2).getTotalEntityPrice();
-					return x1.compareTo(x2);
+					return x2.compareTo(x1);
 				}
 			}
 
